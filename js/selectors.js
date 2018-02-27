@@ -18,3 +18,11 @@ function divSelector() {
   let divs = $('.pics');
   return divs
 }
+
+function firstListItem() {
+  let firstList = $('ul #pic-list:first-child')
+  
+}
+
+
+

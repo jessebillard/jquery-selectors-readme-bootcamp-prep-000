@@ -20,8 +20,8 @@ function divSelector() {
 }
 
 function firstListItem() {
-  let firstList = $('ul li:first-child')
-  
+  let firstList = $('ul li:first-child');
+  return firstList
 }
 
 
